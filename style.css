@@ -1,0 +1,16 @@
+body {
+    background: repeating-linear-gradient(
+        to right,
+        #00F65F,
+        #00f65f 60px,
+        #ffffff 60px,
+        #ffffff 120px
+    );
+}
+body html {
+    height: 100%;
+}
+#logo {
+    height: auto;
+    width: 60px;
+}
